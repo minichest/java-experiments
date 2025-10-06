@@ -14,4 +14,6 @@ sketch 11 - movable square
 sketch 12 - scalable square
 sketch 13 - stickman
 
-Batch 2:
+Batch 2 (3/10/2025): 251003 (a --> b)
+sketch 1 - basic traffic lights
+sketch 2 - background on traffic lights
