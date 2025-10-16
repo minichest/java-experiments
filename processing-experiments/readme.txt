@@ -46,3 +46,13 @@ sketch 1 - horizontal alternating coloured circles (for loop, fill toggle)
 sketch 2 - age classification printout (if statements)
 sketch 3 - concentric colored circles (multiple fills/ellipses)
 sketch 4 - FizzBuzz printout for numbers 1..40
+
+Batch 6 (16/10/2025): 251016 (a --> h)
+sketch 1 - single ellipse with cross lines (simple setup demonstrating ellipse + lines)
+sketch 2 - single wheel (ellipse with cross) drawn at a fixed x,y
+sketch 3 - row of wheels: multiple ellipses with cross lines produced by a for loop
+sketch 4 - vertical stack of triangles (for loop drawing triangles downward)
+sketch 5 - wheel() helper draws three concentric ellipses with cross lines; called from setup
+sketch 6 - repeated semi-circles, rectangles and small rects spaced horizontally (composite shapes)
+sketch 7 - pair of wheels with connecting lines and a central top point (small composition) - motorbike
+sketch 8 - drawing numbered boxes using a helper numberBox function in a loop
