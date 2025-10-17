@@ -56,3 +56,8 @@ sketch 5 - wheel() helper draws three concentric ellipses with cross lines; call
 sketch 6 - repeated semi-circles, rectangles and small rects spaced horizontally (composite shapes)
 sketch 7 - pair of wheels with connecting lines and a central top point (small composition) - motorbike
 sketch 8 - drawing numbered boxes using a helper numberBox function in a loop
+
+Batch 7 (17/10/2025): 251017 (a --> c)
+sketch 1 - simple sum example (prints 15) - `sketch_251017a`
+sketch 2 - moving circle (animates a circle across the window) - `sketch_251017b`
+sketch 3 - random colored rectangles (draws a grid of rectangles with random fills) - `sketch_251017c`

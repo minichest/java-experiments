@@ -3,3 +3,6 @@ processing-experiments/libraries
 processing-experiments/modes
 processing-experiments/tools
 processing-experiments/templates
+.github/
+.vscode/
+.DS_Store
