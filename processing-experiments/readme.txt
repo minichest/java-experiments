@@ -81,3 +81,8 @@ sketch 9 - constructor-based motorbike instances (uses constructors) - `sketch_2
 sketch 10 - finish-line logic and stopping at finish (race stop) - `sketch_251030k`
 sketch 11 - racing mode with key-controlled game state (press 0/1) - `sketch_251030l`
 sketch 12 - three-bike race with win counters displayed at finish - `sketch_251030m`
+
+Batch 11 (31/10/2025): 251031 (a --> c)
+sketch 1 - load and display a GIF image at fixed coordinates (simple image demo) - `sketch_251031a`
+sketch 2 - two walkers animated by cycling GIF frames (left-to-right walk) - `sketch_251031b`
+sketch 3 - two walkers with frame-based flip & edge-reversal (walkers reverse at edges) - `sketch_251031c`
